@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Christian 👋
 
-<!--
-**ChriSHM29/ChriSHM29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems Engineering student based in Peru 🇵🇪 with a passion for turning data into insights. I am currently focusing my studies on becoming a specialized Data Analyst.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases: MySQL, PostgreSQL, MongoDB
+
+Development: Java, HTML, CSS
+
+📜 Certifications
+
+Google IT Support Professional Certificate (Completed)
+
+Google Data Analytics Professional Certificate (In Progress)
+
+Just setting myself up for grandeur.
+
+
