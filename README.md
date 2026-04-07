@@ -12,7 +12,7 @@ Development: Java, HTML, CSS
 
 Google IT Support Professional Certificate (Completed)
 
-Google Data Analytics Professional Certificate (In Progress)
+Google Data Analytics Professional Certificate (Completed)
 
 Just setting myself up for grandeur.
 
