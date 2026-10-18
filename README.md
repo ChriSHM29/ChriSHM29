@@ -7,35 +7,35 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Focusing+on+robust+backend+architectures+and+microservices...;Building+data+pipelines+and+predictive+models...;Daily+driver:+CachyOS+(Hyprland+/+KDE)+and+Windows+11..." alt="Typing SVG" />
   </a>
 
-  <!-- Badges de perfil y estado -->
+  <!-- Badges de perfil -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=ChriSHM29&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/ChriSHM29?label=Followers&style=flat-square&color=bb9af7" alt="Followers" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20%2F%20Data-1a1b27?style=flat-square&logo=linux&logoColor=7dcfff" alt="Focus" />
   </p>
 </div>
 
 ---
 
-### 🚀 About Me & Environment
+## 👾 Welcome to My GitHub Profile!
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <ul>
-        <li>💻 <b>Architecture:</b> Focusing on robust backend services, RESTful APIs, distributed microservices, and data pipelines.</li>
-        <li>🛠️ <b>Workstation:</b> Dual workflow running <b>CachyOS</b> (Hyprland / KDE Plasma, Fish shell, Kitty) and <b>Windows 11</b>.</li>
-        <li>📊 <b>Data & Analytics:</b> Experience in data transformation, predictive modeling, and BI dashboards.</li>
-        <li>🎓 <b>Certifications:</b> Google IT Support, Google Data Analytics & Google AI Essentials.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
+### 🤖 About Me
 
-```yaml
-# fastfetch --config profile.jsonc
-OS:       CachyOS x86_64 / Windows 11
-WM/DE:    Hyprland (Wayland) & KDE Plasma
-Shell:    fish / alacritty / kitty
-Academic: Systems Engineering @ UTP (7th Cycle)
-Location: Peru
-Status:   Building & shipping code
+I'm **Christian Muñoa**, a Systems Engineering student at **UTP** passionate about backend development, distributed microservices, and data engineering. My focus drives me to build scalable software architectures while customizing high-efficiency Linux and Windows workflows.
+
+- 💻 **Systems Engineering | Backend & Software Engineer | Data Analytics**
+- 🚀 **Building scalable RESTful APIs, microservices, and predictive models.**
+- 🐧 **Customizing Linux environments (CachyOS + Hyprland/Wayland) and CLI tooling.**
+- 📊 **Transforming data into actionable insights with Python, R, and BI platforms.**
+- 🎓 **Certified in Google IT Support, Google Data Analytics & Google AI Essentials.**
+
+---
+
+### 📂 My Skills
+
+```text
+📂 Skills & Environment
+ ├─ 📚 Programming Languages
+ ├─ 🛠️ Frameworks & Libraries
+ ├─ 🗄️ Databases & Data Science
+ ├─ 💻 Software, DevOps & Tools
+ └─ 🖥️ Workspace Setup
