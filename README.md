@@ -1,6 +1,6 @@
 # Hi there, I'm Christian Saúl Muñoa Huertas 👋
 
-Systems Engineering student & Full-Stack / Backend Developer.
+Systems Engineering Student & Software Engineer
 
 ---
 
