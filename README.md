@@ -21,8 +21,19 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Generado automáticamente por lowlighter/metrics (plugin_topics: icons) -->
-  <img src="github-metrics.svg" alt="Tech Stack Icons" width="90%" />
+  
+  <p><b>Core & Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,js&theme=dark" />
+
+  <p><b>Frontend & Web</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css&theme=dark" />
+
+  <p><b>Databases & Analytics</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,powerbi&theme=dark" />
+
+  <p><b>DevOps, Tools & OS</b></p>
+  <img src="https://skillicons.dev/icons?i=docker,git,idea,vscode,linux,arch&theme=dark" />
+
 </div>
 
 ---
@@ -30,9 +41,6 @@
 ### 📫 How to Reach Me
 
 <div align="center">
-  <a href="https://github.com/ChriSHM29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
