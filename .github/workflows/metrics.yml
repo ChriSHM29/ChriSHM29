@@ -18,8 +18,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICAS_TOKEN }}
+          committer_token: ${{ secrets.METRICAS_TOKEN }}
           committer_branch: main
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
