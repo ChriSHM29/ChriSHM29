@@ -4,7 +4,7 @@
 
   <!-- Efecto de escritura en tiempo real -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+backend+services+and+web+applications...;AI-Augmented+Workflows+(LLMs,+Antigravity,+Codex+%26+Custom+Skills)...;Exploring+Data+Analysis+with+Python+and+Power+BI...;Daily+driver:+CachyOS+(Hyprland+/+KDE)+and+Windows+11..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Building+backend+services+and+web+applications...;AI-Augmented+Workflows+(LLMs,+Antigravity,+Codex+and+Custom+Skills)...;Exploring+Data+Analysis+with+Python+and+Power+BI...;Daily+driver:+CachyOS+(Hyprland+/+KDE)+and+Windows+11..." alt="Typing SVG" />
   </a>
 
   <!-- Badges de perfil -->
