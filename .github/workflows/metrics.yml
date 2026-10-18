@@ -1,4 +1,4 @@
-name: GitHub Metrics
+name: GitHub Metrics Icons
 
 on:
   schedule:
@@ -14,29 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Metrics embed
+      - name: Metrics Topics Icons
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICAS_TOKEN }}
           committer_token: ${{ secrets.METRICAS_TOKEN }}
           committer_branch: main
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Lima
-          use_mocked_data: no
-          template: classic
-          config_order: base.header, base.metadata, languages, isocalendar, habits
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 24
