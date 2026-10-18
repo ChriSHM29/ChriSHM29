@@ -1,39 +1,41 @@
-# Hi there, I'm Christian Saúl Muñoa Huertas 👋
+<div align="center">
+  <!-- Banner SVG dinámico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Christian%20Sa%C3%BAl%20Mu%C3%B1oa%20Huertas&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20Student%20%26%20Software%20Engineer&descAlignY=58&descSize=16" width="100%" />
 
-Systems Engineering Student & Software Engineer
+  <!-- Efecto de escritura en tiempo real -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=%3E+Focusing+on+robust+backend+architectures+%26+microservices...;%3E+Building+data+pipelines+%26+predictive+models...;%3E+Daily+driver%3A+CachyOS+(Hyprland+%2F+KDE)+%26+Windows+11..." alt="Typing SVG" />
+  </a>
 
----
-
-### 🚀 About Me
-
-- 💻 Focusing on robust backend architectures, distributed services, and data pipelines.
-- 🛠️ Daily driver: Linux & Windows workstation environments.
-- 🔭 Working on microservices, cloud deployments, and web engineering.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Databases & DevOps:**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  <!-- Badges de perfil y estado -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ChriSHM29&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ChriSHM29?label=Followers&style=flat-square&color=bb9af7" alt="Followers" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data-1a1b27?style=flat-square&logo=linux&logoColor=7dcfff" alt="Focus" />
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 About Me & Environment
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChriSHM29&show_icons=true&theme=tokyonight&hide_border=true" alt="ChriSHM29 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChriSHM29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>💻 <b>Architecture:</b> Focusing on robust backend services, RESTful APIs, distributed microservices, and data pipelines.</li>
+        <li>🛠️ <b>Workstation:</b> Dual workflow running <b>CachyOS</b> (Hyprland / KDE Plasma, Fish shell, Kitty) and <b>Windows 11</b>.</li>
+        <li>📊 <b>Data & Analytics:</b> Experience in data transformation, predictive modeling, and BI dashboards.</li>
+        <li>🎓 <b>Certifications:</b> Google IT Support, Google Data Analytics & Google AI Essentials.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+
+```yaml
+# >_ fastfetch --config profile.jsonc
+OS:       CachyOS x86_64 / Windows 11
+WM/DE:    Hyprland (Wayland) & KDE Plasma
+Shell:    fish / alacritty / kitty
+Academic: Systems Engineering @ UTP (7th Cycle)
+Location: Peru
+Status:   Building & shipping code
