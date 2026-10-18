@@ -1,13 +1,12 @@
 name: GitHub Metrics
 
 on:
-  # Se actualiza automáticamente cada 24 horas a medianoche
-  schedule: [{cron: "0 0 * * *"}]
-  # Te permite ejecutarlo manualmente con un botón cuando quieras
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # Se ejecuta al hacer push en main
   push:
-    branches: ["main", "master"]
+    branches:
+      - main
 
 jobs:
   github-metrics:
@@ -15,20 +14,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Lowlighter Metrics (Overview, Languages & Isometric Calendar)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Lowlighter Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
-          
-          # Tema oscuro limpio
-           use_mocked_data: no
+          use_mocked_data: no
           template: classic
           config_order: base.header, base.metadata, languages, isocalendar, habits
 
-          # Plugin de Lenguajes (con colores e iconos)
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -37,11 +38,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
 
-          # Plugin de Calendario Isométrico 3D (el cubo de commits)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Plugin de Hábitos (horas a las que programas y actividad reciente)
           plugin_habits: yes
           plugin_habits_from: 100
           plugin_habits_days: 14
