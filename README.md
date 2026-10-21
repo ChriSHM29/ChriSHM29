@@ -14,7 +14,7 @@
 
 ### ⚡ Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (7.º ciclo, **Décimo Superior**) en la **Universidad Tecnológica del Perú (UTP)**, en búsqueda de prácticas preprofesionales.
+- 🎓 Estudiante de **Ingeniería de Sistemas** 
 - 💻 Desarrollo aplicaciones **Full Stack** y proyectos de **Datos** validando el código con pruebas, ejecución local reproducible (Docker) y control de versiones.
 - 🎷 Explora mi portal interactivo con reproductor *Jazz Kissa*: **[cv-digital-portal.pages.dev](https://cv-digital-portal.pages.dev)**
 
