@@ -1,7 +1,6 @@
 <div align="center">
 
 # Christian Saúl Muñoa Huertas
-**Ingeniería de Sistemas (7.º Ciclo · Décimo Superior) — UTP | Ica, Perú**  
 *Desarrollo Full Stack, Proyectos de Datos & Automatización con enfoque AI-Augmented*
 
 [![CV Digital](https://img.shields.io/badge/🌐_Ver_CV_Digital_Interactivo-b02a1a?style=for-the-badge)](https://cv-digital-portal.pages.dev)
