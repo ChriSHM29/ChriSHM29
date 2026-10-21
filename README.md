@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Christian Saúl Muñoa Huertas
 *Desarrollo Full Stack, Proyectos de Datos & Automatización con enfoque AI-Augmented*
