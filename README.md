@@ -3,7 +3,7 @@
 # Christian Saúl Muñoa Huertas
 *Desarrollo Full Stack, Proyectos de Datos & Automatización con enfoque AI-Augmented*
 
-[![CV Digital](https://img.shields.io/badge/🌐_Ver_CV_Digital_Interactivo-b02a1a?style=for-the-badge)]([https://cv-digital-portal.pages.dev](https://chris-mh.pages.dev))
+[![CV Digital](https://img.shields.io/badge/🌐_Ver_CV_Digital_Interactivo-b02a1a?style=for-the-badge)]([[https://cv-digital-portal.pages.dev](https://chris-mh.pages.dev)](https://chris-mh.pages.dev))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chris--mhuertas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mhuertas)
 [![Email](https://img.shields.io/badge/Contacto-chrismh199629%40gmail.com-181614?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrismh199629@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ChriSHM29&label=Visitas&color=b02a1a&style=for-the-badge)
